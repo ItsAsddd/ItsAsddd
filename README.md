@@ -22,10 +22,12 @@
 ---
 
 <p align="center">
-  <img src="images/aboutme.png" width="100%">
+  <img src="./images/aboutme.png" width="100%">
 </p>
 
-## <img src="mcicons/book.png" width="20"> About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=7DD3FC&center=true&vCenter=true&repeat=false&width=600&lines=ABOUT+ME" />
+</p>
 
 I started experimenting with Minecraft servers back in 2016 using small Aternos worlds while barely running the game at 15 FPS.
 
@@ -33,112 +35,163 @@ What started as simple server configuration slowly became a passion for gameplay
 
 Today, I focus on creating systems that transform Minecraft into something deeper, more dynamic and more memorable.
 
-- <img src="mcicons/diamond_pickaxe.png" width="18"> Passionate about mining systems
-- <img src="mcicons/command_block.png" width="18"> Backend & gameplay focused
-- <img src="mcicons/end_crystal.png" width="18"> Self-taught developer
-- <img src="mcicons/nether_star.png" width="18"> Always experimenting with new mechanics
+- <img src="./mcicons/minecraft_diamond_pickaxe.png" width="18"> Passionate about mining systems
+- <img src="./mcicons/minecraft_command_block.png" width="18"> Backend & gameplay focused
+- <img src="./mcicons/minecraft_end_crystal.png" width="18"> Self-taught developer
+- <img src="./mcicons/minecraft_nether_star.png" width="18"> Always experimenting with new mechanics
 
 ---
 
 <p align="center">
-  <img src="images/journey.png" width="100%">
+  <img src="./images/journey.png" width="100%">
 </p>
 
-## <img src="mcicons/compass.png" width="20"> Journey
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=7DD3FC&center=true&vCenter=true&repeat=false&width=600&lines=JOURNEY" />
+</p>
 
 ```txt
-2016 → First Aternos server
-2018 → Learning plugins & server setup
-2020 → Public Minecraft networks
-2022 → Custom gameplay mechanics
-2024 → Large-scale core systems
-2026 → Gameplay & infrastructure focused development
+2016 -> First Aternos server
+2018 -> Learning plugins & server setup
+2020 -> Public Minecraft networks
+2022 -> Custom gameplay mechanics
+2024 -> Large-scale core systems
+2026 -> Gameplay & infrastructure focused development
+```
 
 Most of my experience comes from:
 
-<img src="mcicons/enchanted_book.png" width="18"> Documentation
-<img src="mcicons/experience_bottle.png" width="18"> Trial & error
-<img src="mcicons/book.png" width="18"> Communities
-<img src="mcicons/redstone.png" width="18"> Real project experimentation
-<p align="center"> <img src="images/skills.png" width="100%"> </p>
-<img src="mcicons/beacon.png" width="20"> Skills
-<table> <tr> <td valign="top">
-<img src="mcicons/command_block.png" width="18"> Systems
-Progression Systems
-Economy Mechanics
-Mining Systems
-Prison Systems
-RPG Features
-Custom Bosses
-</td> <td valign="top">
-<img src="mcicons/redstone.png" width="18"> Backend
-Velocity Networks
-Server Infrastructure
-Optimization
-Persistent Data
-Large Gameplay Cores
-Multiplayer Architecture
-</td> <td valign="top">
-<img src="mcicons/end_crystal.png" width="18"> Creative
-Gameplay Design
-Custom Mechanics
-Lore Systems
-Puzzle Design
-UI/UX for Minecraft
-Community-focused Development
-</td> </tr> </table> <br> <p align="center"> <img src="mcicons/java.png" width="42"> <img src="mcicons/paper.png" width="42"> <img src="mcicons/velocity.png" width="42"> <img src="mcicons/mysql.png" width="42"> <img src="mcicons/firebase.png" width="42"> <img src="mcicons/angular.png" width="42"> <img src="mcicons/flutter.png" width="42"> <img src="mcicons/git.png" width="42"> </p>
-<p align="center"> <img src="images/creations.png" width="100%"> </p>
-<img src="mcicons/ender_chest.png" width="20"> Creations
-<img src="mcicons/beacon.png" width="18"> Nothion Core
+- <img src="./mcicons/minecraft_amethyst_shard.png" width="18"> Documentation
+- <img src="./mcicons/minecraft_experience_bottle.png" width="18"> Trial & error
+- <img src="./mcicons/minecraft_writable_book.png" width="18"> Communities
+- <img src="./mcicons/minecraft_redstone.png" width="18"> Real project experimentation
 
-Advanced prison infrastructure combining:
+---
 
-Regenerative mines
-Offline player markets
-Economy systems
-Progression mechanics
-Custom gameplay integrations
-<img src="mcicons/nether_star.png" width="18"> Boss Progression System
+<p align="center">
+  <img src="./images/skills.png" width="100%">
+</p>
 
-Multi-difficulty boss architecture featuring:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=7DD3FC&center=true&vCenter=true&repeat=false&width=600&lines=SKILLS" />
+</p>
 
-Dynamic scaling
-Reward progression
-Arena management
-MythicMobs integration
-<img src="mcicons/diamond_pickaxe.png" width="18"> ProgressionCore
+<table>
+<tr>
+
+<td valign="top">
+
+### Systems
+
+- Progression Systems
+- Economy Mechanics
+- Mining Systems
+- Prison Systems
+- RPG Features
+- Custom Bosses
+
+</td>
+
+<td valign="top">
+
+### Backend
+
+- Velocity Networks
+- Server Infrastructure
+- Optimization
+- Persistent Data
+- Large Gameplay Cores
+- Multiplayer Architecture
+
+</td>
+
+<td valign="top">
+
+### Creative
+
+- Gameplay Design
+- Custom Mechanics
+- Lore Systems
+- Puzzle Design
+- UI/UX for Minecraft
+- Community-focused Development
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<img src="./mcicons/minecraft_command_block.png" width="42">
+<img src="./mcicons/minecraft_beacon.png" width="42">
+<img src="./mcicons/minecraft_redstone.png" width="42">
+<img src="./mcicons/minecraft_end_crystal.png" width="42">
+<img src="./mcicons/minecraft_amethyst_cluster.png" width="42">
+<img src="./mcicons/minecraft_nether_star.png" width="42">
+<img src="./mcicons/minecraft_enchanting_table.png" width="42">
+<img src="./mcicons/minecraft_ender_chest.png" width="42">
+
+</p>
+
+---
+
+<p align="center">
+  <img src="./images/creations.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=7DD3FC&center=true&vCenter=true&repeat=false&width=700&lines=CREATIONS" />
+</p>
+
+### <img src="./mcicons/minecraft_beacon.png" width="18"> Nothion Core
+
+Advanced prison infrastructure combining regenerative mines, offline player markets, economy systems and custom gameplay integrations.
+
+---
+
+### <img src="./mcicons/minecraft_nether_star.png" width="18"> Boss Progression System
+
+Multi-difficulty boss architecture with dynamic scaling, reward progression, arena control and MythicMobs integration.
+
+---
+
+### <img src="./mcicons/minecraft_diamond_pickaxe.png" width="18"> ProgressionCore
 
 Custom survival progression framework inspired by RPG and sandbox mechanics.
 
-Focused on:
+---
 
-Unlockable crafting
-Character progression
-Skill trees
-Economy integration
-<img src="mcicons/amethyst_shard.png" width="18"> Experimental Mechanics
+### <img src="./mcicons/minecraft_amethyst_shard.png" width="18"> Experimental Mechanics
 
-I enjoy designing systems that feel different from vanilla Minecraft:
+Dynamic mines, puzzle systems, lore progression, magical mechanics, NPC interactions and advanced GUI workflows.
 
-Dynamic mines
-Puzzle systems
-Lore progression
-Magical mechanics
-Interactive NPC systems
-Advanced GUI workflows
-<p align="center"> <img src="images/contactme.png" width="100%"> </p>
-<img src="mcicons/paper.png" width="20"> Contact Me
+---
+
+<p align="center">
+  <img src="./images/contactme.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=7DD3FC&center=true&vCenter=true&repeat=false&width=700&lines=CONTACT+ME" />
+</p>
+
+<p align="center">
+  Discord: <code>its_asd</code><br>
+  GitHub: <code>ItsAsddd</code><br>
+  Network: <code>NothionMC</code>
+</p>
+
+---
+
 <p align="center">
 
-<img src="mcicons/discord.png" width="18"> Discord: its_asd
-
-<img src="mcicons/github.png" width="18"> GitHub: ItsAsddd
-
-<img src="mcicons/beacon.png" width="18"> Network: NothionMC
-
-</p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ItsAsddd&show_icons=true&theme=transparent&title_color=7DD3FC&text_color=CBD5E1&icon_color=7DD3FC&border_color=1E293B"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ItsAsddd&show_icons=true&theme=transparent&title_color=7DD3FC&text_color=CBD5E1&icon_color=7DD3FC&border_color=1E293B"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAsddd&layout=compact&theme=transparent&title_color=7DD3FC&text_color=CBD5E1&border_color=1E293B"/> </p> ```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAsddd&layout=compact&theme=transparent&title_color=7DD3FC&text_color=CBD5E1&border_color=1E293B"/>
+
+</p>
