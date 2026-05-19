@@ -1,39 +1,144 @@
-<h1>Zzzz</h1>
-<p>Pa subir plugins de Minecraft nada más </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.instagram.com/juanxlr_daniel" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsAsddd&show_icons=true&locale=en" alt="ItsAsddd" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsAsddd&" alt="ItsAsddd" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ItsAsddd" alt="ItsAsddd" /></a></p>
+<h1 align="center">ItsAsd</h1>
+
+<p align="center">
+  Minecraft Systems Developer • Gameplay Engineer • Creative Builder
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=2500&color=7DD3FC&center=true&vCenter=true&width=1000&lines=Building+immersive+Minecraft+experiences;Custom+Gameplay+Systems;Progression+%26+Economy+Mechanics;Turning+Minecraft+into+something+different" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-7DD3FC?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0B1120">
+  <img src="https://img.shields.io/badge/PAPERMC-93C5FD?style=for-the-badge&labelColor=0B1120">
+  <img src="https://img.shields.io/badge/VELOCITY-60A5FA?style=for-the-badge&labelColor=0B1120">
+  <img src="https://img.shields.io/badge/SKRIPT-38BDF8?style=for-the-badge&labelColor=0B1120">
+  <img src="https://img.shields.io/badge/MYTHICMOBS-7DD3FC?style=for-the-badge&labelColor=0B1120">
+  <img src="https://img.shields.io/badge/FIREBASE-67E8F9?style=for-the-badge&labelColor=0B1120">
+</p>
+
+---
+
+<p align="center">
+  <img src="images/aboutme.png" width="100%">
+</p>
+
+## <img src="mcicons/book.png" width="20"> About Me
+
+I started experimenting with Minecraft servers back in 2016 using small Aternos worlds while barely running the game at 15 FPS.
+
+What started as simple server configuration slowly became a passion for gameplay systems, multiplayer infrastructure and immersive experiences.
+
+Today, I focus on creating systems that transform Minecraft into something deeper, more dynamic and more memorable.
+
+- <img src="mcicons/diamond_pickaxe.png" width="18"> Passionate about mining systems
+- <img src="mcicons/command_block.png" width="18"> Backend & gameplay focused
+- <img src="mcicons/end_crystal.png" width="18"> Self-taught developer
+- <img src="mcicons/nether_star.png" width="18"> Always experimenting with new mechanics
+
+---
+
+<p align="center">
+  <img src="images/journey.png" width="100%">
+</p>
+
+## <img src="mcicons/compass.png" width="20"> Journey
+
+```txt
+2016 → First Aternos server
+2018 → Learning plugins & server setup
+2020 → Public Minecraft networks
+2022 → Custom gameplay mechanics
+2024 → Large-scale core systems
+2026 → Gameplay & infrastructure focused development
+
+Most of my experience comes from:
+
+<img src="mcicons/enchanted_book.png" width="18"> Documentation
+<img src="mcicons/experience_bottle.png" width="18"> Trial & error
+<img src="mcicons/book.png" width="18"> Communities
+<img src="mcicons/redstone.png" width="18"> Real project experimentation
+<p align="center"> <img src="images/skills.png" width="100%"> </p>
+<img src="mcicons/beacon.png" width="20"> Skills
+<table> <tr> <td valign="top">
+<img src="mcicons/command_block.png" width="18"> Systems
+Progression Systems
+Economy Mechanics
+Mining Systems
+Prison Systems
+RPG Features
+Custom Bosses
+</td> <td valign="top">
+<img src="mcicons/redstone.png" width="18"> Backend
+Velocity Networks
+Server Infrastructure
+Optimization
+Persistent Data
+Large Gameplay Cores
+Multiplayer Architecture
+</td> <td valign="top">
+<img src="mcicons/end_crystal.png" width="18"> Creative
+Gameplay Design
+Custom Mechanics
+Lore Systems
+Puzzle Design
+UI/UX for Minecraft
+Community-focused Development
+</td> </tr> </table> <br> <p align="center"> <img src="mcicons/java.png" width="42"> <img src="mcicons/paper.png" width="42"> <img src="mcicons/velocity.png" width="42"> <img src="mcicons/mysql.png" width="42"> <img src="mcicons/firebase.png" width="42"> <img src="mcicons/angular.png" width="42"> <img src="mcicons/flutter.png" width="42"> <img src="mcicons/git.png" width="42"> </p>
+<p align="center"> <img src="images/creations.png" width="100%"> </p>
+<img src="mcicons/ender_chest.png" width="20"> Creations
+<img src="mcicons/beacon.png" width="18"> Nothion Core
+
+Advanced prison infrastructure combining:
+
+Regenerative mines
+Offline player markets
+Economy systems
+Progression mechanics
+Custom gameplay integrations
+<img src="mcicons/nether_star.png" width="18"> Boss Progression System
+
+Multi-difficulty boss architecture featuring:
+
+Dynamic scaling
+Reward progression
+Arena management
+MythicMobs integration
+<img src="mcicons/diamond_pickaxe.png" width="18"> ProgressionCore
+
+Custom survival progression framework inspired by RPG and sandbox mechanics.
+
+Focused on:
+
+Unlockable crafting
+Character progression
+Skill trees
+Economy integration
+<img src="mcicons/amethyst_shard.png" width="18"> Experimental Mechanics
+
+I enjoy designing systems that feel different from vanilla Minecraft:
+
+Dynamic mines
+Puzzle systems
+Lore progression
+Magical mechanics
+Interactive NPC systems
+Advanced GUI workflows
+<p align="center"> <img src="images/contactme.png" width="100%"> </p>
+<img src="mcicons/paper.png" width="20"> Contact Me
+<p align="center">
+
+<img src="mcicons/discord.png" width="18"> Discord: its_asd
+
+<img src="mcicons/github.png" width="18"> GitHub: ItsAsddd
+
+<img src="mcicons/beacon.png" width="18"> Network: NothionMC
+
+</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ItsAsddd&show_icons=true&theme=transparent&title_color=7DD3FC&text_color=CBD5E1&icon_color=7DD3FC&border_color=1E293B"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAsddd&layout=compact&theme=transparent&title_color=7DD3FC&text_color=CBD5E1&border_color=1E293B"/> </p> ```
