@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mc-heads.net/body/Its_Asd/200">
+  <img src="https://mc-heads.net/player/Its_Asd/180">
 </p>
 
 <h1 align="center">ItsAsd</h1>
