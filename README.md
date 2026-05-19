@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://mc-heads.net/body/Its_Asd/200">
+</p>
+
 <h1 align="center">ItsAsd</h1>
 
 <p align="center">
@@ -7,7 +11,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=2500&color=7DD3FC&center=true&vCenter=true&width=1000&lines=Building+immersive+Minecraft+experiences;Custom+Gameplay+Systems;Progression+%26+Economy+Mechanics;Turning+Minecraft+into+something+different" />
 </p>
-
 <br>
 
 <p align="center">
