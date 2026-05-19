@@ -171,6 +171,17 @@ Dynamic mines, puzzle systems, lore progression, magical mechanics, NPC interact
 ---
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=7DD3FC&center=true&vCenter=true&repeat=false&width=900&lines=CURRENTLY+WORKING+ON" />
+</p>
+
+- Advanced Minecraft progression systems
+- Multiplayer gameplay architectures
+- Experimental mechanics & immersive experiences
+- Large-scale custom infrastructures
+
+---
+
+<p align="center">
   <img src="./images/contactme.png" width="100%">
 </p>
 
@@ -178,20 +189,26 @@ Dynamic mines, puzzle systems, lore progression, magical mechanics, NPC interact
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=7DD3FC&center=true&vCenter=true&repeat=false&width=700&lines=CONTACT+ME" />
 </p>
 
+<br>
+
 <p align="center">
-  Discord: <code>its_asd</code><br>
-  GitHub: <code>ItsAsddd</code><br>
-  Network: <code>NothionMC</code>
+  <img src="https://mc-heads.net/player/Its_Asd/220">
 </p>
 
----
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ItsAsddd&show_icons=true&theme=transparent&title_color=7DD3FC&text_color=CBD5E1&icon_color=7DD3FC&border_color=1E293B"/>
+Discord: <code>its_asd</code>
 
-<br><br>
+GitHub: <code>ItsAsddd</code>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAsddd&layout=compact&theme=transparent&title_color=7DD3FC&text_color=CBD5E1&border_color=1E293B"/>
+Network: <code>NothionMC</code>
 
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./mcicons/minecraft_soul_lantern.png" width="20">
+  <img src="./mcicons/minecraft_amethyst_shard.png" width="20">
+  <img src="./mcicons/minecraft_end_crystal.png" width="20">
 </p>
