@@ -188,7 +188,7 @@ Designed as a complete MMORPG-style infrastructure for prison networks.
 
 <p align="center">
   <a href="https://github.com/ItsAsddd/MinasASD">
-    <img src="https://github.com/ItsAsddd/MinasASD/raw/main/images/overview.png" width="100%">
+    <img src="https://github.com/ItsAsddd/MinasASD/raw/main/images/overview.gif" width="100%">
   </a>
 </p>
 
