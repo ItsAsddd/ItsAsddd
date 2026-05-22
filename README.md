@@ -149,27 +149,158 @@ Most of my experience comes from:
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=7DD3FC&center=true&vCenter=true&repeat=false&width=700&lines=CREATIONS" />
 </p>
 
-### <img src="./mcicons/minecraft_beacon.png" width="18"> Nothion Core
+---
 
-Advanced prison infrastructure combining regenerative mines, offline player markets, economy systems and custom gameplay integrations.
+## <img src="./mcicons/minecraft_beacon.png" width="22"> ASDCore
+
+<p align="center">
+  <a href="https://github.com/ItsAsddd/ASDCore-Showcase">
+    <img src="https://github.com/ItsAsddd/ASDCore-Showcase/raw/main/images/overview.gif" width="100%">
+  </a>
+</p>
+
+### <span style="color:#7DD3FC">Advanced Prison Infrastructure Framework</span>
+
+Large-scale Minecraft core combining:
+- regenerative mines
+- offline player markets
+- ranked PvP systems
+- magical progression
+- custom items
+- region infrastructures
+- donation systems
+- fishing mechanics
+- holograms
+- placeholders
+- Discord synchronization
+
+Designed as a complete MMORPG-style infrastructure for prison networks.
+
+<p align="center">
+  <a href="https://github.com/ItsAsddd/ASDCore-Showcase">
+    <img src="https://img.shields.io/badge/OPEN_PROJECT-7DD3FC?style=for-the-badge&labelColor=0B1220">
+  </a>
+</p>
 
 ---
 
-### <img src="./mcicons/minecraft_nether_star.png" width="18"> Boss Progression System
+## <img src="./mcicons/minecraft_diamond_pickaxe.png" width="22"> MinasASD
 
-Multi-difficulty boss architecture with dynamic scaling, reward progression, arena control and MythicMobs integration.
+<p align="center">
+  <a href="https://github.com/ItsAsddd/MinasASD">
+    <img src="https://github.com/ItsAsddd/MinasASD/raw/main/images/overview.png" width="100%">
+  </a>
+</p>
+
+### <span style="color:#7DD3FC">Dynamic Mine Infrastructure</span>
+
+Advanced mine ecosystem featuring:
+- non-cubic dynamic mines
+- custom drops
+- environmental effects
+- hologram systems
+- beacon infrastructures
+- Anti-Xray
+- Discord synchronization
+- progression-based mining
+
+Built to transform prison mines into immersive gameplay experiences.
+
+<p align="center">
+  <a href="https://github.com/ItsAsddd/MinasASD">
+    <img src="https://img.shields.io/badge/OPEN_PROJECT-7DD3FC?style=for-the-badge&labelColor=0B1220">
+  </a>
+</p>
 
 ---
 
-### <img src="./mcicons/minecraft_diamond_pickaxe.png" width="18"> ProgressionCore
+## <img src="./mcicons/minecraft_crafting_table.png" width="22"> CrafteosASD
 
-Custom survival progression framework inspired by RPG and sandbox mechanics.
+<p align="center">
+  <a href="https://github.com/ItsAsddd/CrafteosASD">
+    <img src="https://github.com/ItsAsddd/CrafteosASD/raw/main/images/overview.gif" width="100%">
+  </a>
+</p>
+
+### <span style="color:#7DD3FC">Modular Crafting Infrastructure</span>
+
+Custom crafting framework supporting:
+- crafting tables
+- furnaces
+- anvils
+- recipe blocking
+- progression crafting
+- custom item integrations
+- GUI recipe editing
+- advanced item comparison systems
+
+Focused on scalable crafting progression and RPG survival mechanics.
+
+<p align="center">
+  <a href="https://github.com/ItsAsddd/CrafteosASD">
+    <img src="https://img.shields.io/badge/OPEN_PROJECT-7DD3FC?style=for-the-badge&labelColor=0B1220">
+  </a>
+</p>
 
 ---
 
-### <img src="./mcicons/minecraft_amethyst_shard.png" width="18"> Experimental Mechanics
+## <img src="./mcicons/minecraft_nether_star.png" width="22"> BBattlesASD
 
-Dynamic mines, puzzle systems, lore progression, magical mechanics, NPC interactions and advanced GUI workflows.
+<p align="center">
+  <a href="https://github.com/ItsAsddd/BBattlesASD">
+    <img src="https://github.com/ItsAsddd/BBattlesASD/raw/main/images/overview.gif" width="100%">
+  </a>
+</p>
+
+### <span style="color:#7DD3FC">BossBattle Arena Framework</span>
+
+Round-based combat infrastructure with:
+- scalable boss arenas
+- MythicMobs integration
+- unlockable progression
+- advanced mob editors
+- cinematic battle flow
+- reward systems
+- spectators
+- statistics & placeholders
+
+Created for immersive RPG-style multiplayer combat experiences.
+
+<p align="center">
+  <a href="https://github.com/ItsAsddd/BBattlesASD">
+    <img src="https://img.shields.io/badge/OPEN_PROJECT-7DD3FC?style=for-the-badge&labelColor=0B1220">
+  </a>
+</p>
+
+---
+
+## <img src="./mcicons/minecraft_emerald.png" width="22"> MobileShopASD
+
+<p align="center">
+  <a href="https://github.com/ItsAsddd/MobileShopASD">
+    <img src="https://github.com/ItsAsddd/MobileShopASD/raw/main/images/overview.gif" width="100%">
+  </a>
+</p>
+
+### <span style="color:#7DD3FC">Marketplace & Commerce Infrastructure</span>
+
+Advanced player marketplace ecosystem featuring:
+- upgradeable player shops
+- physical rentable markets
+- Discord commerce
+- ratings & rankings
+- offline deliveries
+- boosters
+- NPC integration
+- transaction history
+
+Designed to create immersive multiplayer economies and player-driven commerce.
+
+<p align="center">
+  <a href="https://github.com/ItsAsddd/MobileShopASD">
+    <img src="https://img.shields.io/badge/OPEN_PROJECT-7DD3FC?style=for-the-badge&labelColor=0B1220">
+  </a>
+</p>
 
 ---
 
@@ -177,13 +308,13 @@ Dynamic mines, puzzle systems, lore progression, magical mechanics, NPC interact
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=7DD3FC&center=true&vCenter=true&repeat=false&width=900&lines=CURRENTLY+WORKING+ON" />
 </p>
 
-- Advanced Minecraft progression systems
-- Multiplayer gameplay architectures
-- Experimental mechanics & immersive experiences
-- Large-scale custom infrastructures
+- <img src="./mcicons/minecraft_beacon.png" width="16"> Advanced Minecraft progression systems
+- <img src="./mcicons/minecraft_redstone.png" width="16"> Multiplayer gameplay architectures
+- <img src="./mcicons/minecraft_amethyst_shard.png" width="16"> Experimental mechanics & immersive experiences
+- <img src="./mcicons/minecraft_command_block.png" width="16"> Large-scale custom infrastructures
+- <img src="./mcicons/minecraft_ender_eye.png" width="16"> RPG-oriented server ecosystems
 
 ---
-
 <p align="center">
   <img src="./images/contactme.png" width="100%">
 </p>
