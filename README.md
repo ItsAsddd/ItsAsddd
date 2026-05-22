@@ -155,7 +155,7 @@ Most of my experience comes from:
 
 <p align="center">
   <a href="https://github.com/ItsAsddd/ASDCore-Showcase">
-    <img src="https://github.com/ItsAsddd/ASDCore-Showcase/raw/main/images/overview.gif" width="100%">
+    <img src="https://github.com/ItsAsddd/ASDCore-Showcase/blob/main/images/asdcore-banner.png" width="100%">
   </a>
 </p>
 
