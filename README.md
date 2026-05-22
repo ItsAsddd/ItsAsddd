@@ -315,6 +315,7 @@ Designed to create immersive multiplayer economies and player-driven commerce.
 - <img src="./mcicons/minecraft_ender_eye.png" width="16"> RPG-oriented server ecosystems
 
 ---
+
 <p align="center">
   <img src="./images/contactme.png" width="100%">
 </p>
@@ -325,19 +326,45 @@ Designed to create immersive multiplayer economies and player-driven commerce.
 
 <br>
 
-<p align="center">
-  <img src="https://mc-heads.net/player/Its_Asd/220">
-</p>
+<table align="center">
+<tr>
 
-<p align="center">
+<td align="center" width="35%">
+  <img src="https://mc-heads.net/head/Its_Asd/140">
+  <br><br>
+  <strong>Its_Asd</strong>
+  <br>
+  <sub>Minecraft Systems Developer</sub>
+</td>
 
-Discord: <code>its_asd</code>
+<td align="center" width="65%">
 
-GitHub: <code>ItsAsddd</code>
+<a href="https://github.com/ItsAsddd">
+  <img src="https://img.shields.io/badge/GitHub-ItsAsddd-7DD3FC?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220">
+</a>
 
-Network: <code>NothionMC</code>
+<br><br>
 
-</p>
+<a href="https://es.namemc.com/profile/Its_Asd.1">
+  <img src="https://img.shields.io/badge/NameMC-Its__Asd-60A5FA?style=for-the-badge&labelColor=0B1220">
+</a>
+
+<br><br>
+
+<a href="mailto:jdbr0923@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-93C5FD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1220">
+</a>
+
+<br><br>
+
+<a href="https://discord.com/users/717164480169115679">
+  <img src="https://img.shields.io/badge/Discord-its__asd-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1220">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
